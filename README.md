@@ -1,5 +1,5 @@
-# RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification 
+# Brain Tumor Radiogenomic Classification 
 
-A solution to a Kaggle competition (https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification)
+A solution to RSNA MICCAI Brain Tumor Radiogenomic Classification, - [link](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification) of the competition.
 
-File: rsna_final.ipynb
+In this solution, I implemented EfficientNet3D, which is EfficientNet but for 3D image. 
